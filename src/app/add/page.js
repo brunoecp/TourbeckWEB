@@ -1,4 +1,5 @@
-import NavBar from "@/components/navbar";
+import NavBar from "@/components/NavBar";
+
 
 export default function Add() {
   return (
